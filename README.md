@@ -3,9 +3,10 @@
 <html>
 <body>
 
-<h1>my github</h1>
+<h1>Lasang Profile</h1>
 
-<p>Welcome to personal page of Lasang</p>
+<h2>About me</h2>
+I am lasang.
 
 </body>
 </html>
